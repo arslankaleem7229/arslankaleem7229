@@ -80,13 +80,13 @@
       <img align="left" width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=arslankaleem7229&theme=react&border=61dafb&hide_border=true" alt="arslankaleem7229" />
     </a>
     <a href="https://github.com/arslankaleem7229">
-      <img align="right" width=45% src="https://github-readme-stats.vercel.app/api?username=arslankaleem7229&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=45% src="https://read-me-psi.vercel.app?username=arslankaleem7229&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/arslankaleem7229">
-      <img width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arslankaleem7229&border_color=61dafb&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact" />
+      <img width=45% align="center" src="https://read-me-psi.vercel.app/api/top-langs?username=arslankaleem7229&border_color=61dafb&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact" />
     </a>
   </div>
   <br>
