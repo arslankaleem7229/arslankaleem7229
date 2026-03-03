@@ -1,6 +1,12 @@
-# Arslan Kaleem
+<h1 align="left">Hi 👋, I'm Arslan Kaleem</h1>
 
-Full Stack Engineer building real-time, high-concurrency systems with Node.js, React/Next.js, and AWS. Currently shipping production Flutter mobile apps for Cherry CIC.
+<p align="left">
+  <strong>Full Stack Software Engineer | Node.js | React | AWS</strong>
+</p>
+
+<p align="left">
+  I engineer scalable web architectures, real-time data pipelines, and cross-platform applications. Currently focused on building high-performance backend systems and maintaining open-source infrastructure for charitable organizations. 
+</p>
 
 ## Stack
 
@@ -20,15 +26,13 @@ Full Stack Engineer building real-time, high-concurrency systems with Node.js, R
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-## What I Build
+- 🔭 I’m currently working with **Total Health & Dental Care**
 
-- **Quizzy** — AI-powered flashcard platform. Next.js, PostgreSQL, Redis, RabbitMQ, Socket.IO. Asynchronous job queues handle AI generation while Socket.IO pushes real-time updates to connected clients.
+- 🌱 I’m currently Working in **Flutter for Cross-Platform, Node.js for backend, React.js for frontend**
 
-- **Honeydu** — Payment management platform processing $50K+ monthly. React frontend, Express backend, JWT auth. Secure transaction history and freelancer dashboard.
+- 💬 Ask me about **Flutter, Swift, Javascript/Typescript, and Python**
 
-- **Present** — Streaming platform with live analytics and crypto-ticketing. Next.js and Node.js. Scaled to support 2,000+ concurrent viewers.
-
-- **Vibecheck** — Real-time social mapping app. Node.js and Socket.IO. Handles 1,000+ concurrent WebSocket connections with sub-100ms latency for live crowd tracking.
+- 📫 How to reach me **arslankaleem7229@gmail.com**
 
 ## Connect with me
 
