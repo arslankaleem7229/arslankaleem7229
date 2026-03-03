@@ -1,95 +1,43 @@
-<h1 align="center">Hi 👋, I'm Arslan Kaleem</h1>
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer...;Flutter%20Developer...;IOS%20(Swift)%20Developer...;&center=true&size=24">
-  </a>
-</h3>
+# Arslan Kaleem
+
+Full Stack Engineer building real-time, high-concurrency systems with Node.js, React/Next.js, and AWS. Currently shipping production Flutter mobile apps for Cherry CIC.
+
+## Stack
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+## What I Build
+
+- **Quizzy** — AI-powered flashcard platform. Next.js, PostgreSQL, Redis, RabbitMQ, Socket.IO. Asynchronous job queues handle AI generation while Socket.IO pushes real-time updates to connected clients.
+
+- **Honeydu** — Payment management platform processing $50K+ monthly. React frontend, Express backend, JWT auth. Secure transaction history and freelancer dashboard.
+
+- **Present** — Streaming platform with live analytics and crypto-ticketing. Next.js and Node.js. Scaled to support 2,000+ concurrent viewers.
+
+- **Vibecheck** — Real-time social mapping app. Node.js and Socket.IO. Handles 1,000+ concurrent WebSocket connections with sub-100ms latency for live crowd tracking.
+
+## Connect with me
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=arslankaleem7229&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=arslankaleem7229" alt="Visitor Badge" /> 
-<img src="https://img.shields.io/github/stars/arslankaleem7229" alt="Stars Badge"/>
-</p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" > <img src="https://github-profile-trophy.vercel.app/?username=arslankaleem7229" alt="arslankaleem7229" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/Arslankaleem8" target="blank" > <img src="https://img.shields.io/twitter/follow/Arslankaleem8?logo=twitter&style=for-the-badge" alt="Arslankaleem8" /> </a> </p>
-
-<a href="https://stackoverflow.com/users/15023395/arslan-kaleem"> <img src="https://github-readme-stackoverflow.vercel.app/?userID=15023395&layout=compact&theme=dark" alt="Arslan Kaleem, Q&amp;A for professional and enthusiast programmers" title="Arslan Kaleem, Q&amp;A for professional and enthusiast programmers" /> </a>
-
-- 🔭 I’m currently working with **Total Health & Dental Care**
-
-- 🌱 I’m currently Working in **Swift for IOS Development, Flutter for Cross-Platform, Node.js for backend**
-
-- 🌱 I’m currently learning **Python for Data Science**
-
-- 💬 Ask me about **Flutter, Swift, Node, and Python**
-
-- 📫 How to reach me **arslankaleem7229@gmail.com**
-
-<h2 align="left">Connect with me:</h2>
-
-<p align="left"> 
-  
+  <a href="https://arslankaleem.tech" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png" alt="arslankaleem.tech" height="40" width="40"/>
+</a>
   <a href="https://twitter.com/Arslankaleem8" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Arslankaleem8" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/arslan-kaleem/" target="blank" > <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arslan-kaleem" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/15023395/arslan-kaleem" target="blank" > <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arslan-kaleem" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/arslan.kaleem.777/" target="blank" > <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arslan.kaleem.777" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/arslan_kaleem_/" target="blank" > <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arslan_kaleem_" height="30" width="40" /></a>
-
+  <a href="https://www.leetcode.com/https://leetcode.com/u/arslan_kaleem_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/arslan_kaleem_/" height="30" width="40" /></a>
 </p>
-
-<br><br>
-
-<h2>🚀 Technologies I Use</h2>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /> </a>
-<a href="https://developer.apple.com/swift/" target="\_blank" rel="noreferrer"> <img src="https://images.squarespace-cdn.com/content/v1/558def25e4b0fc259f066636/1533603278905-AVZ8RD2X0YCPY0N3VGRZ/Swift_logo.png?format=2500w" alt="xd" width="40" height="40" /> </a>
-<a href="https://laravel.com/" target="\_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="xd" width="40" height="40" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="express" width="40" height="40" /> </a>
-<a href="https://python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="python" width="40" height="40" /> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
-<a href="https://vuejs.org/" target="\_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="xd" width="40" height="40" /> </a>
-<a href="https://www.electronjs.org/" target="\_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" alt="xd" width="40" height="40" /> </a>
-
-<br><br>
-
-<h2>🛠️ Tools I Use</h2>
-
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-
-<br><br>
-
-<!-- <h2>🌱 Stats</h2>
-
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/arslankaleem7229">
-      <img align="left" width=45% src="https://github-readme-streak-stats.herokuapp.com/?user=arslankaleem7229&theme=react&border=61dafb&hide_border=true" alt="arslankaleem7229" />
-    </a>
-    <a href="https://github.com/arslankaleem7229">
-      <img align="right" width=45% src="https://github-readme-stats.vercel.app/api?username=arslankaleem7229&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/arslankaleem7229">
-      <img width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arslankaleem7229&border_color=61dafb&hide_border=true&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&layout=compact" />
-    </a>
-  </div>
-  <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=arslankaleem7229&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p> -->
