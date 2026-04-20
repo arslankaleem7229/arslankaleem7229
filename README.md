@@ -36,24 +36,10 @@
 
 ## Connect with me
 
-<p align="left"> 
-  <a href="https://arslankaleem.tech" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png" height="40" width="40"/>
-  </a>
-
-  <a href="https://twitter.com/Arslankaleem8" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/arslan-kaleem/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-
-  <a href="https://stackoverflow.com/users/15023395/arslan-kaleem" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
-  </a>
-
-  <a href="https://leetcode.com/u/arslan_kaleem_/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
-  </a>
+<p align="left">
+<a href="https://arslankaleem.tech" target="_blank"><img src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png" height="40" width="40" padding="100px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/Arslankaleem8" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/arslan-kaleem/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/15023395/arslan-kaleem" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/arslan_kaleem_/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
